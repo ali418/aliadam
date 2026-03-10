@@ -15,7 +15,7 @@
     <td width="65%">
       <h3>👋 About Me</h3>
       <p>I am the founder of <b>K4 IT</b>, specializing in bridging the gap between cutting-edge <b>Artificial Intelligence</b> and scalable <b>SaaS architecture</b>.</p>
-      <p>I build production-ready systems ranging from real-time Computer Vision pipelines to Enterprise ERPs and hyper-local marketplaces like SokoMart.</p>
+      <p>I build production-ready systems ranging from real-time Computer Vision pipelines to Enterprise ERPs and hyper-local marketplaces.</p>
       <p><b>💡 Mission:</b> Turning complex technical challenges into measurable business value, operational efficiency, and enhanced security.</p>
     </td>
     <td width="35%" align="center">
@@ -59,26 +59,57 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🏢 Enterprise ERP SaaS</h3>
-      <p>A comprehensive multi-tenant management system with integrated POS and Inventory.</p>
-      <a href="https://erp-system.up.railway.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
+      <h3>🏢 ERP Market</h3>
+      <p>A comprehensive multi-tenant ERP system with integrated POS and Inventory.</p>
+      <a href="https://erp-system.up.railway.app/erp-market"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
     </td>
     <td width="50%" align="center">
-      <h3>🛒 KGL & Key Market</h3>
-      <p>High-performance E-commerce platforms with automated marketing suites.</p>
-      <a href="https://kgl-groceries-production.up.railway.app/"><img src="https://img.shields.io/badge/📱_Live_Demo-0e75b6?style=for-the-badge"/></a>
+      <h3>🛒 Key Market 2</h3>
+      <p>High-performance Sales and Inventory Management System for supermarkets.</p>
+      <a href="https://key-market-2-production.up.railway.app/marketing/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>🛡️ Weapon Detection AI</h3>
       <p>Real-time threat detection utilizing YOLO, OpenCV, and Telegram Bot integration.</p>
-      <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square"/>
+      <a href="https://github.com/ali418/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="50%" align="center">
-      <h3>🚁 Autonomous Drone Nav</h3>
-      <p>Mission planning and LoRa/4G-based control within industrial IoT drone networks.</p>
-      <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square"/>
+      <h3>📈 KGL Groceries</h3>
+      <p>An end-to-end agri-trading management system for KGL Groceries LTD.</p>
+      <a href="https://kgl-groceries.up.railway.app/marketing"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Freelance & Client Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>☕ Cafe Sundus</h3>
+      <p>Online ordering platform for a local cafe.</p>
+      <a href="https://cafesundus.up.railway.app/online-order"><img src="https://img.shields.io/badge/Live_Site-black?style=for-the-badge"/></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌟 Nasmat Jamal</h3>
+      <p>E-commerce store for a beauty products business.</p>
+      <a href="https://www.nasmatjamal.com/online-store"><img src="https://img.shields.io/badge/Live_Site-black?style=for-the-badge"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎓 Noor Academic</h3>
+      <p>An online platform for academic services.</p>
+      <a href="https://nooracademic.up.railway.app/"><img src="https://img.shields.io/badge/Live_Site-black?style=for-the-badge"/></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Future Vision</h3>
+      <p>Corporate website for an IT solutions company.</p>
+      <a href="https://futuervision.com/"><img src="https://img.shields.io/badge/Live_Site-black?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
