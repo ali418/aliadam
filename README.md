@@ -19,7 +19,7 @@
       <p><b>� My Expertise:</b> Developing everything from real-time <b>Computer Vision</b> pipelines to comprehensive <b>ERP systems</b>, utilizing industry-standard practices like OWASP security and high-performance database aggregations.</p>
     </td>
     <td width="35%" align="center">
-      <img src="https://komarev.com/ghpvc/?username=aliadam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+      <img src="https://komarev.com/ghpvc/?username=ali418&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
       <br/><br/>
       <i>"I don’t just write code; I build solutions."</i>
     </td>
@@ -74,7 +74,7 @@
     <td width="50%" align="center">
       <h3>🛡️ Weapon Detection AI</h3>
       <p>Real-time threat detection utilizing YOLO, OpenCV, and Telegram Bot integration.</p>
-      <a href="https://github.com/aliadam/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/ali418/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="50%" align="center">
       <h3>� KGL Groceries</h3>
@@ -120,11 +120,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliadam&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadam&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali418&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali418&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliadam&theme=tokyo-night&bg_color=0f172a&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali418&theme=tokyo-night&bg_color=0f172a&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <br/>
