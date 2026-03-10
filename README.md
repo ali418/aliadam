@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/aliyajoub"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@k4it.sd"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ali418"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/aliadam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -14,14 +14,14 @@
   <tr>
     <td width="65%">
       <h3>👋 About Me</h3>
-      <p>I am the founder of <a href="https://www.key4infotech.com/frontend/index.php" target="_blank"><b>K4 IT</b></a>, specializing in bridging the gap between cutting-edge <b>Artificial Intelligence</b> and scalable <b>SaaS architecture</b>.</p>
-      <p>I build production-ready systems ranging from real-time Computer Vision pipelines to Enterprise ERPs and hyper-local marketplaces.</p>
-      <p><b>💡 Mission:</b> Turning complex technical challenges into measurable business value, operational efficiency, and enhanced security.</p>
+      <p>I am a <b>Software Engineer</b> and the founder of <a href="https://www.key4infotech.com/frontend/index.php" target="_blank"><b>K4 IT</b></a>, where I specialize in bridging the gap between advanced <b>Artificial Intelligence</b> and scalable <b>SaaS architectures</b>.</p>
+      <p>With over <b>seven years of experience</b> in the tech industry, I build solutions that turn complex technical challenges into measurable business value, operational efficiency, and enhanced security.</p>
+      <p><b>� My Expertise:</b> Developing everything from real-time <b>Computer Vision</b> pipelines to comprehensive <b>ERP systems</b>, utilizing industry-standard practices like OWASP security and high-performance database aggregations.</p>
     </td>
     <td width="35%" align="center">
-      <img src="https://komarev.com/ghpvc/?username=ali418&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+      <img src="https://komarev.com/ghpvc/?username=aliadam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
       <br/><br/>
-      <i>"Code is just the tool; the goal is the solution."</i>
+      <i>"I don’t just write code; I build solutions."</i>
     </td>
   </tr>
 </table>
@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
 </p>
 <p align="center">
   <b>Frontend & Mobile Development</b><br/>
@@ -73,11 +74,11 @@
     <td width="50%" align="center">
       <h3>🛡️ Weapon Detection AI</h3>
       <p>Real-time threat detection utilizing YOLO, OpenCV, and Telegram Bot integration.</p>
-      <a href="https://github.com/ali418/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/aliadam/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="50%" align="center">
-      <h3>📈 KGL Groceries</h3>
-      <p>An end-to-end agri-trading management system for KGL Groceries LTD.</p>
+      <h3>� KGL Groceries</h3>
+      <p>Full-stack system for local agri-trading, featuring secure role-based operations.</p>
       <a href="https://kgl-groceries.up.railway.app/marketing"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
     </td>
   </tr>
@@ -119,11 +120,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali418&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali418&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliadam&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadam&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6" height="165" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali418&theme=tokyo-night&bg_color=0f172a&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliadam&theme=tokyo-night&bg_color=0f172a&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <br/>
