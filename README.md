@@ -14,7 +14,7 @@
   <tr>
     <td width="65%">
       <h3>👋 About Me</h3>
-      <p>I am the founder of <b>K4 IT</b>, specializing in bridging the gap between cutting-edge <b>Artificial Intelligence</b> and scalable <b>SaaS architecture</b>.</p>
+      <p>I am the founder of <a href="https://www.key4infotech.com/frontend/index.php" target="_blank"><b>K4 IT</b></a>, specializing in bridging the gap between cutting-edge <b>Artificial Intelligence</b> and scalable <b>SaaS architecture</b>.</p>
       <p>I build production-ready systems ranging from real-time Computer Vision pipelines to Enterprise ERPs and hyper-local marketplaces.</p>
       <p><b>💡 Mission:</b> Turning complex technical challenges into measurable business value, operational efficiency, and enhanced security.</p>
     </td>
